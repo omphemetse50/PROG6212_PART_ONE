@@ -18,3 +18,4 @@ seed RaceDay roles and users
 seed categories events and enrolments
 seed RaceDay results and verification queries
 complete README and Part 1 submission guidance
+add GitHub Actions repository validation
